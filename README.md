@@ -1,1 +1,1 @@
-# web-based-learning-management-system-for-my-collage
+# web-based-learning-management-system-for-my-college
